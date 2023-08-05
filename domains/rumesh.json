@@ -1,11 +1,10 @@
 {
     "description": "Rumesh's .is-a.dev domain",
-    "repo": "https://github.com/iRumesh/irumesh.github.io",
     "owner": {
         "username": "irumesh",
         "email": "irumesh.work@gmail.com"
     },
     "record": {
-        "CNAME": "irumesh.github.io"
-    }
+        "TXT": "9e9ffa681f97375cc5b87bffd9c8bf"
+    }    
 }
